@@ -1,0 +1,6 @@
+openai==1.58.1
+pandas
+streamlit
+langchain
+openai
+python-dotenv
